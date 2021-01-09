@@ -2,5 +2,8 @@ resolusi belajar
 -belajar pmograman
 -javascript
 Belajar Networking
--php dasar
 -sublime text
+-nmap
+Network security
+- java script
+-web programming
